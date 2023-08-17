@@ -7,8 +7,9 @@ Welcome to the Paganini Docs repository. This repository serves as a comprehensi
 1. [Communications](#communications)
 2. [Signed Records of Meetings](#signed-records-of-meetings)
 3. [Videos](#videos)
-4. [Contributors](#contributors)
-5. [Contact](#contact)
+4. [Acceptance Testing](#acceptance-testing-with-cucumber)
+5. [Contributors](#contributors)
+6. [Contact](#contact)
 
 ## Communications
 
@@ -33,6 +34,24 @@ This section hosts videos that detail our project report construction process. T
 - [Link to Video 1](#)
 - [Link to Video 2](#)
 - ... (and so on)
+
+## Acceptance Testing with Cucumber
+
+Our project utilizes Cucumber for acceptance testing. Below are the links to our `.feature` files which describe the desired behavior of our application in plain language, and the `.steps` files which define the steps for the scenarios outlined in the `.feature` files.
+
+### Feature Files
+
+- [Link to Feature File 1](#)
+- [Link to Feature File 2](#)
+- ... (and so on)
+
+### Steps Definitions
+
+- [Link to Steps File 1](#)
+- [Link to Steps File 2](#)
+- ... (and so on)
+
+For more information on how to run these tests or understand their structure, please refer to the [Cucumber documentation](https://cucumber.io/docs/guides/10-minute-tutorial/).
 
 ## Contributors
 
