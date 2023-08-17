@@ -1,0 +1,153 @@
+Received: from CPVPR80MB6493.lamprd80.prod.outlook.com (2603:10d6:103:1a0::5)
+ by SCYPR80MB7744.lamprd80.prod.outlook.com with HTTPS; Sat, 8 Jul 2023
+ 21:11:08 +0000
+Received: from CPWPR80MB7195.lamprd80.prod.outlook.com (2603:10d6:103:202::5)
+ by CPVPR80MB6493.lamprd80.prod.outlook.com (2603:10d6:103:1a0::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6565.26; Sat, 8 Jul
+ 2023 21:11:07 +0000
+Received: from CPWPR80MB7195.lamprd80.prod.outlook.com
+ ([fe80::73e6:25f8:46fd:7148]) by CPWPR80MB7195.lamprd80.prod.outlook.com
+ ([fe80::73e6:25f8:46fd:7148%7]) with mapi id 15.20.6565.026; Sat, 8 Jul 2023
+ 21:11:06 +0000
+From: Leonardo Andre Castro Alban <leancast@espol.edu.ec>
+To: Fernando Enoc Bucheli Franco <fbucheli@espol.edu.ec>
+Subject: Re: Solicitud Cambio de Visibilidad
+Thread-Topic: Solicitud Cambio de Visibilidad
+Thread-Index: AQHZsd/CNMHXDSdojU6TzsqaE30o76+wXRYq
+Date: Sat, 8 Jul 2023 21:11:06 +0000
+Message-ID:
+	<CPWPR80MB7195FFD37E368E9447507065EE32A@CPWPR80MB7195.lamprd80.prod.outlook.com>
+References:
+	<SCYPR80MB774484E1AB4B84F7FCFECF58F732A@SCYPR80MB7744.lamprd80.prod.outlook.com>
+In-Reply-To:
+	<SCYPR80MB774484E1AB4B84F7FCFECF58F732A@SCYPR80MB7744.lamprd80.prod.outlook.com>
+Accept-Language: es-ES, en-US
+Content-Language: es-419
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: CPWPR80MB7195.lamprd80.prod.outlook.com
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	d7461f21-7b1c-4526-ea25-08db7ff7d85e
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097);
+X-Microsoft-Antispam-Message-Info:
+	tx2MIsmkB+dSlHcT6InCLyc/vKxxRRmQpur7xBdZGbEilsDXagFQ9774H7Si1TvA6LEa1eqrhG4GP3YhBMSk3S6syQ5RIQkDkIEZqJJcRhyvYZ0Wusb//wTuaezKr2Gw2xACbrUiUTf1RNxSEU0SCx3mBF5Nh+XspreVGFHKA2EL7ey8pouPFgjSU7U2DHF549obuKWVUKIagnMeNtC0fIAYTA+nSm04ZTdWb2laL201JKGq7wONqP+qDOhnMHWg287YZEZBWX4w4qkrpuThxD8VmVmET7gVhJqF15cguUB7np2QMgMu37nIhlTXSCfGbZTRHUS0EbR/te+e73W/13T5t97zTRbV5/zZPsEd4j00V7j2Q7iIB4FvMg2nBh8h+Z6xeLptyuzLplfEvwwg8PdJd9mImErT26Iev42COSkHESEWaIZq6S8jo1h/UynAUMCAcc3eAOjRtuepC5SIJoXPcujrxgoZUEYhnSkvGULRiHtHAUZBzf90ddyLPIxNBHkuRGyHWeTG+B78RV1xVixqTiZQ1YHVmEZdkTTk0nlV3w8iCUP9srCrjnDu2iov3ZxF12My2ZTcyBfAXXqBPO7MP8m6DbK53tghdoW6qMcEpGwUa68ARnA6UN+H2xjdV8Yb8LtJDArlaNVKFM1njdlKmlYNLyTgTnothNBt/Y7hcJj/MRFu/Ga97IgXgmtGznZHwRkMkZZPXpE2rLP8p4ha4IBo79iVgogS16+2xEVAdL6H+L1DwVqwvbUf7rLZt05/TIpGR38tyDI79TdVS2ShMfUTfPIWFdOgZ7DPX24=
+Content-Type: multipart/alternative;
+	boundary="_000_CPWPR80MB7195FFD37E368E9447507065EE32ACPWPR80MB7195lamp_"
+MIME-Version: 1.0
+
+--_000_CPWPR80MB7195FFD37E368E9447507065EE32ACPWPR80MB7195lamp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Buenas tardes Fernando,
+Por temas de seguridad, confidencialidad e integridad de la organizaci=F3n =
+no se pueden cambiar la visibilidad a repositorio p=FAblico.
+En todo caso la persona de parte de ESPOL qu=E9 vaya a hacer la inspecci=F3=
+n de los commits puede mandarme su usuario de GitLab para que moment=E1neam=
+ente pueda chequearlos.
+Comentarme cualquier duda al respecto.
+Saludos,
+Leonardo Castro
+
+Obtener Outlook para iOS<https://aka.ms/o0ukef>
+________________________________
+De: Fernando Enoc Bucheli Franco <fbucheli@espol.edu.ec>
+Enviado: s=E1bado, julio 8, 2023 4:08 p. m.
+Para: Leonardo Andre Castro Alban <leancast@espol.edu.ec>
+Asunto: Solicitud Cambio de Visibilidad
+
+Estimado Leonardo:
+
+Me dirijo a usted con el fin de solicitar amablemente un cambio en la visib=
+ilidad de los repositorios de GitLab que albergan los proyectos de Paganini=
+ M=F3vil y Web.
+
+Nos gustar=EDa solicitarle que modifique el acceso de privado a p=FAblico, =
+dado que necesitamos otorgar acceso al profesor de Ingenier=EDa de Software=
+.
+
+Agradecer=EDamos mucho su pronta respuesta.
+
+Atentamente,
+
+Grupo 3.
+
+--_000_CPWPR80MB7195FFD37E368E9447507065EE32ACPWPR80MB7195lamp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<div dir=3D"ltr">
+<div></div>
+<div style=3D"">
+<div>Buenas tardes Fernando,</div>
+<div dir=3D"ltr">Por temas de seguridad, confidencialidad e integridad de l=
+a organizaci=F3n no se pueden cambiar la visibilidad a repositorio p=FAblic=
+o.</div>
+<div dir=3D"ltr">En todo caso la persona de parte de ESPOL qu=E9 vaya a hac=
+er la inspecci=F3n de los commits puede mandarme su usuario de GitLab para =
+que moment=E1neamente pueda chequearlos.</div>
+<div dir=3D"ltr">Comentarme cualquier duda al respecto.</div>
+<div dir=3D"ltr">Saludos,</div>
+<div dir=3D"ltr">Leonardo Castro</div>
+<div id=3D"ms-outlook-mobile-signature">
+<div><br>
+</div>
+Obtener <a href=3D"https://aka.ms/o0ukef" style=3D"">Outlook para iOS</a></=
+div>
+<div id=3D"mail-editor-reference-message-container" class=3D"ms-outlook-mob=
+ile-reference-message">
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif"><b=
+>De:</b> Fernando Enoc Bucheli Franco &lt;fbucheli@espol.edu.ec&gt;<br>
+<b>Enviado:</b> s=E1bado, julio 8, 2023 4:08 p.&nbsp;m.<br>
+<b>Para:</b> Leonardo Andre Castro Alban &lt;leancast@espol.edu.ec&gt;<br>
+<b>Asunto:</b> Solicitud Cambio de Visibilidad
+<div>&nbsp;</div>
+</font></div>
+<div dir=3D"ltr">
+<div style=3D""></div>
+<div style=3D"">
+<div dir=3D"ltr"></div>
+Estimado Leonardo:
+<div dir=3D"ltr"><br>
+</div>
+<div>Me dirijo a usted con el fin de solicitar amablemente un cambio en la =
+visibilidad de los repositorios de GitLab que albergan los proyectos de Pag=
+anini M=F3vil y Web.</div>
+<div dir=3D"ltr"><br>
+</div>
+<div>Nos gustar=EDa solicitarle que modifique el acceso de privado a p=FAbl=
+ico, dado que necesitamos otorgar acceso al profesor de Ingenier=EDa de Sof=
+tware.</div>
+<div dir=3D"ltr"><br>
+</div>
+<div>Agradecer=EDamos mucho su pronta respuesta.</div>
+<div dir=3D"ltr"><br>
+</div>
+<div>Atentamente,</div>
+<div dir=3D"ltr"><br>
+</div>
+Grupo 3.
+<div dir=3D"ltr"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_CPWPR80MB7195FFD37E368E9447507065EE32ACPWPR80MB7195lamp_--
