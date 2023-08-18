@@ -15,7 +15,7 @@ Welcome to the Paganini Docs repository. This repository serves as a comprehensi
 
 This section contains all written and digital communications related to the project. This includes emails, chat logs, and other forms of written communication.
 
-- [Link to Communication Folder/File 1](#)
+- [ACTA_APROBACION_1PROYECTO.pdf](https://github.com/ferbucheli/paganini_docs/tree/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Aprobacion)
 - [Link to Communication Folder/File 2](#)
 - ... (and so on)
 
