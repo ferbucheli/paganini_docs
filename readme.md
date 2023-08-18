@@ -24,7 +24,7 @@ Within this section, you will locate the duly signed documentation pertaining to
 - [ACTA_COMPROMISO_LEOPETPAGANINI.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Compromiso/ACTA_COMPROMISO_LEOPETPAGANINI.pdf)
 - [ACTA_PROYECTO_EMPEZADO.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Aprobacion/ACTA_PROYECTO_EMPEZADO.pdf)
 - [ACTA DE ACEPTACION 2506_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20ACEPTACION%202506_signed.pdf)
-- [ACTA DE ACEPTACION_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20ACEPTACION%202506_signed.pdf)
+- [ACTA DE ACEPTACION_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20ACEPTACION_signed.pdf)
 
 ### Signed Records of Meetings
 
@@ -47,9 +47,11 @@ Here, you'll find the signed records of all our meetings. These records serve as
 
 This section hosts videos that detail our project report construction process. These videos provide visual insights into our work and discussions.
 
-- [Link to Video 1](#)
-- [Link to Video 2](#)
-- ... (and so on)
+- [RequerimientosNov8.mp4](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Reuniones/RequerimientosNov8.mp4)
+- [RequerimientosNov8Part2.mp4](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Reuniones/RequerimientosNov8Part2.mp4)
+- [Demo-Project-T3.mp4](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Recorded%20DEMO%20Video/Demo-Project-T3.mp4)
+- [REUNION17JUNIO.mp4](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Reuniones/REUNION17JUNIO.mp4)
+- [REUNION25JUNIO.mp4](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Reuniones/REUNION25JUNIO.mp4)
 
 ## Acceptance Testing with Cucumber
 
@@ -57,15 +59,17 @@ Our project utilizes Cucumber for acceptance testing. Below are the links to our
 
 ### Feature Files
 
-- [Link to Feature File 1](#)
-- [Link to Feature File 2](#)
-- ... (and so on)
+- [Link to Feature File 1](https://github.com/ferbucheli/paganini_docs/blob/main/features/card_information_parsing.feature)
+- [Link to Feature File 2](https://github.com/ferbucheli/paganini_docs/blob/main/features/card_information_validation.feature)
+- [Link to Feature File 3](https://github.com/ferbucheli/paganini_docs/blob/main/features/data_security.feature)
+- [Link to Feature File 4](https://github.com/ferbucheli/paganini_docs/blob/main/features/error_handling.feature)
+- [Link to Feature File 5](https://github.com/ferbucheli/paganini_docs/blob/main/features/payment_method_selection.feature)
+- [Link to Feature File 6](https://github.com/ferbucheli/paganini_docs/blob/main/features/ui_consistency.feature)
+- [Link to Feature File 7](https://github.com/ferbucheli/paganini_docs/blob/main/features/unauthorized_access.feature)
 
 ### Steps Definitions
 
-- [Link to Steps File 1](#)
-- [Link to Steps File 2](#)
-- ... (and so on)
+- [Link to Steps File](https://github.com/ferbucheli/paganini_docs/blob/main/features/steps/steps.js)
 
 For more information on how to run these tests or understand their structure, please refer to the [Cucumber documentation](https://cucumber.io/docs/guides/10-minute-tutorial/).
 
@@ -73,13 +77,7 @@ For more information on how to run these tests or understand their structure, pl
 
 A shoutout to all the team members and contributors who have been a part of this journey:
 
-- [Name 1](#)
-- [Name 2](#)
-- ... (and so on)
-
-## Contact
-
-For any queries or further information, please reach out to:
-
-- **Name**: [Email Address](mailto:email@example.com)
-- **Phone**: +1-XXX-XXX-XXXX
+- [David Pérez](#)
+- [Washington Cotera](#)
+- [Juan Antonio Gonzalez](#)
+- [Fernando Bucheli](#)
