@@ -15,17 +15,33 @@ Welcome to the Paganini Docs repository. This repository serves as a comprehensi
 
 This section contains all written and digital communications related to the project. This includes emails, chat logs, and other forms of written communication.
 
-- [ACTA_APROBACION_1PROYECTO.pdf](https://github.com/ferbucheli/paganini_docs/tree/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Aprobacion)
-- [Link to Communication Folder/File 2](#)
-- ... (and so on)
+### Permission Records
 
-## Signed Records of Meetings
+Within this section, you will locate the duly signed documentation pertaining to both permissions granted and client acceptances. These records stand as formal documentation detailing the resolutions reached, subjects deliberated, and the participants present during each meeting.
+
+- [ACTA_APROBACION_1PROYECTO.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Aprobacion/ACTA_APROBACION_1PROYECTO.pdf)
+- [ACTA_PROYECTO_EMPEZADO.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Aprobacion/ACTA_PROYECTO_EMPEZADO.pdf)
+- [ACTA_COMPROMISO_LEOPETPAGANINI.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Compromiso/ACTA_COMPROMISO_LEOPETPAGANINI.pdf)
+- [ACTA_PROYECTO_EMPEZADO.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Aprobacion/ACTA_PROYECTO_EMPEZADO.pdf)
+- [ACTA DE ACEPTACION 2506_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20ACEPTACION%202506_signed.pdf)
+- [ACTA DE ACEPTACION_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20ACEPTACION%202506_signed.pdf)
+
+### Signed Records of Meetings
 
 Here, you'll find the signed records of all our meetings. These records serve as an official documentation of the decisions made, topics discussed, and the attendees of each meeting.
 
-- [Link to Meeting Record 1](#)
-- [Link to Meeting Record 2](#)
-- ... (and so on)
+- [meeting12oct.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Reunion/meeting12oct.pdf)
+- [meeting15oct.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Reunion/meeting15oct.pdf)
+- [meeting18oct.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Reunion/meeting18oct.pdf)
+- [meeting27oct.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Reunion/meeting27oct.pdf)
+- [meeting7oct.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Reunion/meeting7oct.pdf)
+- [meeting8nov.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenieria%20de%20Software%20I%20-%20T3/Actas/Reunion/meeting8nov.pdf)
+- [ACTA DE REUNION 1706_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20REUNION%201706_signed.pdf)
+- [ACTA DE REUNION 1_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20REUNION%201_signed.pdf)
+- [ACTA DE REUNION 2506_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20REUNION%202_signed.pdf)
+- [ACTA DE REUNION 2_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20REUNION%201706_signed.pdf)
+- [ACTA DE REUNION 3_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20REUNION%203_signed.pdf)
+- [ACTA DE REUNION 4_signed.pdf](https://github.com/ferbucheli/paganini_docs/blob/main/communications/Ingenier%C3%ADa%20de%20Software%20II%20-%20T3/Actas/ACTA%20DE%20REUNION%204_signed.pdf)
 
 ## Videos
 
